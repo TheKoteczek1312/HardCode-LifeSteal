@@ -1,0 +1,9 @@
+name: P-LifeSteal
+version: '${project.version}'
+main: me.aftercode.lifestealsmp.Main
+api-version: 1.18
+authors: [ TheKoteczek ]
+description: Plugin on lifestealsmp
+website: https://aftercode.pl
+softdepend:
+  - PlaceholderAPI
