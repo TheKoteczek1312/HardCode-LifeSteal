@@ -5,10 +5,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://ls.przemus.xyz/" target="_blank">
-        <img href="https://ls.przemus.xyz/" alt="docs" src="https://img.shields.io/badge/docs-important?style=for-the-badge"/>
-    </a>
-    <a href="https://discord.gg/8sjwaQTHGC" alt="discord" target="_blank">
+    <a href="https://discord.gg/Xf4FtryrWp" alt="discord" target="_blank">
         <img src="https://img.shields.io/badge/discord-informational?style=for-the-badge"/>
     </a>
     <a href="https://www.spigotmc.org/resources/p-lifesteal.101967/" target="_blank">
