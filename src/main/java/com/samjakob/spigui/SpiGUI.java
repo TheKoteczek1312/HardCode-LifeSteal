@@ -5,7 +5,7 @@ import com.samjakob.spigui.item.ItemBuilder;
 import com.samjakob.spigui.menu.SGMenuListener;
 import com.samjakob.spigui.menu.SGOpenMenu;
 import com.samjakob.spigui.pagination.SGPaginationButtonBuilder;
-import me.aftercode.lifestealsmp.other.Config;
+import me.hardcode.lifestealsmp.other.Config;
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.Inventory;

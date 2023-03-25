@@ -4,18 +4,18 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>me.aftercode</groupId>
-    <artifactId>AfterCode-SMP</artifactId>
-    <version>1.9</version>
+    <groupId>me.hardcode</groupId>
+    <artifactId>HardCode-SMP</artifactId>
+    <version>1.0</version>
     <packaging>jar</packaging>
-    <name>AfterCode-LifeSteal</name>
+    <name>HardCode-LifeSteal</name>
 
     <description>Plugin for stealing lives, inspired by Polish server "Anarchia SMP".</description>
     <properties>
         <java.version>17</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <url>https://ls.przemus.xyz/</url>
+    <url>https://discord.gg/Xf4FtryrWp</url>
 
     <build>
         <plugins>

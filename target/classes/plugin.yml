@@ -1,5 +1,5 @@
 name: HardCode-LifeStealSMP
-version: '${project.version}'
+version: '1.0'
 main: me.hardcode.lifestealsmp.Main
 api-version: 1.18
 authors: [ TheKoteczek ]
